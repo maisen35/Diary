@@ -5,3 +5,4 @@ fight
 kadai2fin
 forget
 ohno!
+sindoi
