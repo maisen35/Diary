@@ -10,3 +10,4 @@ ironman
 巡洋
 juntyou
 danraku
+bye
