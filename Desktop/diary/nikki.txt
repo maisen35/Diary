@@ -9,3 +9,4 @@ sindoi
 ironman
 巡洋
 juntyou
+danraku
