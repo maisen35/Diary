@@ -13,3 +13,4 @@ danraku
 bye
 fififi
 asuna
+600
