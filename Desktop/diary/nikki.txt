@@ -21,3 +21,4 @@ gachi
 feb
 wha
 yes
+KASUGA
