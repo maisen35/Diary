@@ -34,3 +34,4 @@ hai
 syousai
 oya
 late
+poko
